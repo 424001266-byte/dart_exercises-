@@ -1,0 +1,13 @@
+===== STUDENT GRADE REPORT =====
+Student Name: Athela Fursha
+Completed Activities: 8
+Average Score: 89.5
+Currently Enrolled: true
+Activity Bonus: 12
+Final Score: 101.5
+Passed the subject? true
+Excellent score? true
+Score is not zero? true
+Remaining Activities: 2
+Activity Groups of 2: 4
+Activities left after grouping: 0
